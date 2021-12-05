@@ -1,4 +1,3 @@
-const { json } = require('express');
 const request = require('request');
 
 const forecast = (latitude, longitude, callback) => {

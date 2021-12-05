@@ -1,8 +1,6 @@
-const request = require('request');
 const path = require('path')
 const express = require('express')
 const hbs = require('hbs')
-const { query } = require('express')
 const geocode = require('./utils/geocode.js')
 const forcast = require('./utils/forecast.js')
 
