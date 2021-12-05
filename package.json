@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js"
@@ -12,5 +11,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atheelarouge/node3-weather-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atheelarouge/node3-weather-website/issues"
+  },
+  "homepage": "https://github.com/atheelarouge/node3-weather-website#readme",
+  "description": ""
 }
